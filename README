@@ -1,0 +1,43 @@
+Получить вывод вот в таком виде:
+(примерно, конечно)
+
+структура:
+
+--->name1
+    --->field1
+        --->element1
+        --->element2
+        --->element3
+        ...
+    --->field2
+        --->element1
+        --->element2
+        ...
+    ...
+--->name2
+    --->field1
+        ...
+    --->field2
+        ...
+    ...
+...
+
+
+For Oleg:
+   field - profit_month2
+      8000
+      10000
+      50000
+      6000
+   field - expenses_month1
+      3000
+      4000
+      9900
+For Nataly:
+   field - expenses_month2
+      2000
+      17000
+   field - expenses_month1
+      10000
+      4000
+      1000
